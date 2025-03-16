@@ -14,8 +14,8 @@ LOG_CSV = "/Users/akishress/Desktop/MST/data_sent"
 IMAGE_PATH = "/Users/akishress/Desktop/MST/panda.png"
 
 # --- Zoho Credentials ---
-ZOHO_USER = "aki_mst12@zohomail.com"
-ZOHO_PASSWORD = "4BL5hTy0WbZa"  # Use your Zoho App Password here
+ZOHO_USER = ""
+ZOHO_PASSWORD = ""  # Use your Zoho App Password here
 
 def send_personalized_html_emails():
     # Connect to Zoho SMTP
